@@ -1,3 +1,9 @@
 Notion clone
 
-npm i
+Edgestore
+
+prisma
+
+Clerk
+
+Convex.dev
